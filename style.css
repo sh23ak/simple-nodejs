@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    list-style: square;
+}
+h1,h3{
+    text-align: center;
+}
+h1{
+    padding: 50px;
+    background-color: blanchedalmond;
+    font-size: 50px;
+}
+h3{
+    padding: 20px;
+    background-color:beige;
+    font-size: 30px;
+}
+
+p{
+    display: block;
+    margin: 0px 130px;
+    font-size: 20px;
+    border:hidden;
+}
+
+section{
+    padding: 10px;
+    text-decoration: solid;
+    margin: 0px 130px;
+}
+li{
+    font-size: 20px;
+}
+
+div{
+    color: #000;
+   text-align: center;
+   font-size: 30px;
+   border: groove;
+   margin: 0px 130px;
+}
